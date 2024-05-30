@@ -1,0 +1,13 @@
+carat* Peso en quilates del diamante.
+cut* Describa la calidad del corte del diamante.
+quality: en orden creciente Regular, Buena, Muy Buena, Premium, Ideal.
+*Color : * Color del Diamante.
+Siendo D el mejor y J el peor.
+*Clarity: * La claridad del diamante se refiere a la ausencia de inclusiones y defectos.
+(En orden de mejor a peor, FL = impecable, I3 = inclusiones de nivel 3) FL, IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1, I2, I3
+*depth* La Altura de un Diamante, medida desde el Culet hasta la mesa, dividida por su Diámetro Faja promedio.
+*Table: * El Ancho de la Mesa del Diamante expresado como un Porcentaje de su Diámetro Promedio.
+*Price : * el Precio del Diamante.
+*X : * Longitud del Diamante en mm.
+*Y : * Ancho del Diamante en mm.
+*Z : * Altura del Diamante en mm.
